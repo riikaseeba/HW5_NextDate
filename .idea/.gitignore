@@ -6,3 +6,12 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Ignore all files in .idea unless explicitly mentioned
+.idea/*
+# Keep these files for shared project configuration
+!.idea/misc.xml
+!.idea/vcs.xml
+!.idea/modules.xml
+!.idea/runConfigurations/
+!.idea/libraries/
+
